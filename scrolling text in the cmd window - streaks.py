@@ -1,0 +1,20 @@
+from time import sleep
+
+while True:
+    print('  _____ ______  ____     ___   ____  __  _  _____')
+    sleep(0.2)
+    print(' / ___/|      ||    \   /  _] /    ||  |/ ]/ ___/')
+    sleep(0.2)
+    print("(   \_ |      ||  D  ) /  [_ |  o  ||  ' /(   \_ ")
+    sleep(0.2)
+    print(' \__  ||_|  |_||    / |    _]|     ||    \ \__  |')
+    sleep(0.2)
+    print(' /  \ |  |  |  |    \ |   [_ |  _  ||     \/  \ |')
+    sleep(0.2)
+    print(' \    |  |  |  |  .  \|     ||  |  ||  .  |\    |')
+    sleep(0.2)
+    print('  \___|  |__|  |__|\_||_____||__|__||__|\_| \___|')
+    sleep(0.2)
+    print('                                                 ')
+    sleep(1)
+    print('Love from Callum xxxxxx')
